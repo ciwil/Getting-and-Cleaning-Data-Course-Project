@@ -39,7 +39,7 @@ The resulting tidydataset.txt dataset includes mean and standard deviation varia
 - fBodyBodyGyroJerkMag. 
 
 All three X, Y, Z directions are included.
-The above variables where choosen as they included either mean or std in their original names.
+The above variables where chosen as they included either mean or std in their original names.
 
 
 # Transformations
